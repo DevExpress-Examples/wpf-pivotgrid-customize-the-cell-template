@@ -25,7 +25,7 @@ The cell displays its value in a [ProgressBar](https://docs.microsoft.com/en-us/
 - [Pivot Grid for WPF - Customize CellTemplate with Different Colors](https://github.com/DevExpress-Examples/pivot-grid-for-wpf-customize-cell-template)
 - [Pivot Grid for WPF - How to Edit a Cell with the Cell Editing Template](https://github.com/DevExpress-Examples/how-to-define-a-custom-cell-template-that-allows-performing-data-editing-t410760/)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-pivotgrid-customize-the-cell-template&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-pivotgrid-customize-the-cell-template&~~~was_helpful=no)
 
